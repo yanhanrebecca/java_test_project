@@ -10,15 +10,15 @@ public class random_array_homework {
         int random_arr[]=new int[len];
         for(int i = 0; i < random_arr.length; i++) {
             boolean have_same_in_array = false;
-            int s = 60 + (int) (Math.random() * (60 - 99));
+            int s = 60 + (int) (Math.random() * (100 - 60));
             if (i == 0){
                 random_arr[i] = s;
                 continue;
             }
             if (i > 0) {
-                for(int j=0;j<i;j++){
+                for(int j = 0; j < i; j++){
                     //去重：如果数组中已有相同整数，i回退，进行下次循环
-                    if(i != j && random_arr[j]==s){
+                    if(i != j && random_arr[j] == s){
                         i -= 1;
                         have_same_in_array = true;
                     }
