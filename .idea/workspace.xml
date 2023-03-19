@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayCopyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathRondom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoArray_Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Eval_118_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/random_array_homework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
