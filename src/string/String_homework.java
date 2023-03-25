@@ -1,10 +1,12 @@
 /*
-给你两个字符串 s 和 sub ，请你在 s 字符串中找出 sub 字符串
-出现的第一个位置（下标从 0 开始）。如果不存在，则返回 -1 。
+两个字符串 s 和 sub ，请你在 s 字符串中找出 sub 字符串出现的第一个位置（下标
+从 0 开始）。如果不存在，则返回 -1 。
+要求：完成类index中的indexOf函数，不能使用已知的子串定位操作方法，可以使用图片上传。
  */
 package string;
 public class String_homework {
     public static int indexOf(String s, String sub) {
+        //返回串sub在串s中首次出现的位置，如果不存在，则返回-1
         char[] s_arr = s.toCharArray();
         char[] sub_arr = sub.toCharArray();
         for(int i = 0; i < s_arr.length; i++){
