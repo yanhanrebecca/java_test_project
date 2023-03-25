@@ -24,7 +24,6 @@ public class String_homework {
     }
     public static void main(String [] args){
         String s = "This is a book.";
-        System.out.println(indexOf(s, "ia"));
+        System.out.println(indexOf(s, "is"));
     }
-
 }
