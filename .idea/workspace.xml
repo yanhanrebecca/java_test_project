@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="String_homework description">
-      <change afterPath="$PROJECT_DIR$/src/string/judge_e_mail.java" afterDir="false" />
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="judge_e_mail">
+      <change afterPath="$PROJECT_DIR$/src/Water_flower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,12 +81,20 @@
       <option name="project" value="LOCAL" />
       <updated>1679751207491</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="judge_e_mail">
+      <created>1679838224861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679838224861</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IntegerTest" />
     <MESSAGE value="Division" />
-    <option name="LAST_COMMIT_MESSAGE" value="Division" />
+    <MESSAGE value="judge_e_mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="judge_e_mail" />
   </component>
 </project>
