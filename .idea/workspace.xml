@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="Division">
-      <change afterPath="$PROJECT_DIR$/src/string/String_homework.java" afterDir="false" />
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="String_homework description">
+      <change afterPath="$PROJECT_DIR$/src/string/judge_e_mail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
