@@ -7,6 +7,7 @@ public class Water_flower {
         int sum = 0;
         int j = 0;
         for(int i = 0; i < 3; i++){
+            //将j转换成整形
             j = n_str.charAt(i) - '0';
             sum += j * j * j;
         }
