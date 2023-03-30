@@ -1,9 +1,11 @@
-package Object_oriented;
+package Object_oriented1;
 class student{
     String name;
     int birth;
-    student(){}
+    //构造器重载
+    student(){}//如果没有这行，定义的对象必须包含全部属性，不能为空,
     student(String _name, int _birth){
+        //构造器
         name = _name;
         birth = _birth;
     }
@@ -15,6 +17,7 @@ class student{
 }
 public class student_test {
     public static void main(String [] args){
+        student d3 = new student();
         student d1 = new student("张三", 19510101);
         student d2 = new student("李四", 20001229);
         System.out.println("对象d2的属性及方法");
