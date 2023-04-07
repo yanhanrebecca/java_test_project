@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="Water_flower">
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented2/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented2/Subroutine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
