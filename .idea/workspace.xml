@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="SingleLinkList">
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented2/ObjectInstance.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="MyStackTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681181420104</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ObjectInstance">
+      <created>1681181546343</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681181546343</updated>
+    </task>
+    <task id="LOCAL-00009" summary="MyStackTest">
+      <created>1681181753801</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681181753801</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +135,8 @@
     <MESSAGE value="Water_flower" />
     <MESSAGE value="node" />
     <MESSAGE value="SingleLinkList" />
-    <option name="LAST_COMMIT_MESSAGE" value="SingleLinkList" />
+    <MESSAGE value="ObjectInstance" />
+    <MESSAGE value="MyStackTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyStackTest" />
   </component>
 </project>
