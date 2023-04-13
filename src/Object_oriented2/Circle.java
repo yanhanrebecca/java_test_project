@@ -1,6 +1,6 @@
 package Object_oriented2;
 
-public class Circle extends Shape{
+public class Circle implements Shape{
     double r;
     final double PI = 3.1415;
     public Circle(double r){
@@ -8,12 +8,10 @@ public class Circle extends Shape{
     }
     public Circle(){};
     public double getGirth(){
-        girth = 2 * PI * r;
-        return girth;
+        return 2 * PI * r;
     }
     public double getArea(){
-        area = PI * r * r;
-        return area;
+        return PI * r * r;
     }
 
 }

@@ -1,6 +1,6 @@
 package Object_oriented2;
 
-public class Rect extends Shape{
+public class Rect implements Shape{
     //矩形
     double width;
     double height;
@@ -11,11 +11,9 @@ public class Rect extends Shape{
     public Rect(){}
     public double getGirth(){
         //方法覆盖overload，求矩形周长
-        girth = (width + height) * 2;
-        return girth;
+        return (width + height) * 2;
     }
     public  double getArea(){
-        area = width * height;
-        return area;
+        return width * height;
     }
 }
