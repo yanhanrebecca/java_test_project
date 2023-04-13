@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="public,protected">
-      <change afterPath="$PROJECT_DIR$/src/oo2/testImport/PackageTestImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo2/testImport/PackageTestSub.java" afterDir="false" />
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="protected">
+      <change afterPath="$PROJECT_DIR$/src/oo2/TestSingle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681370015018</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="protected">
+      <created>1681371134007</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681371134007</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +186,7 @@
     <MESSAGE value="Dispatch" />
     <MESSAGE value="interface" />
     <MESSAGE value="public,protected" />
-    <option name="LAST_COMMIT_MESSAGE" value="public,protected" />
+    <MESSAGE value="protected" />
+    <option name="LAST_COMMIT_MESSAGE" value="protected" />
   </component>
 </project>
