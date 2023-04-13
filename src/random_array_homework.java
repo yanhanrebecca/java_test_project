@@ -7,7 +7,7 @@
 public class random_array_homework {
     public static int[] create_no_repeat_random_int(int len) {
         //生成[60-100）之间的len个不重复的随机整数,返回一个数组
-        int random_arr[]=new int[len];
+        int[] random_arr =new int[len];
         for(int i = 0; i < random_arr.length; i++) {
             boolean have_same_in_array = false;
             int s = 60 + (int) (Math.random() * (100 - 60));
@@ -18,7 +18,7 @@ public class random_array_homework {
             if (i > 0) {
                 for(int j = 0; j < i; j++){
                     //去重：如果数组中已有相同整数，i回退，进行下次循环
-                    if(i != j && random_arr[j] == s){
+                    if(random_arr[j] == s){
                         i -= 1;
                         have_same_in_array = true;
                     }
@@ -40,11 +40,11 @@ public class random_array_homework {
     }
     public static void main(String[] args) {
         // 调用产生20个不重复随机数组方法
-        int random_list[]=create_no_repeat_random_int(20);
+        int[] random_list =create_no_repeat_random_int(20);
         //测试create_no_repeat_random_int
         System.out.print("函数生成的数组是：");
-        for (int i = 0; i < random_list.length; i++) {
-            System.out.print(random_list[i]+",");
+        for (int j : random_list) {
+            System.out.print(j + ",");
         }
         System.out.println("\n");
         //测试show_array

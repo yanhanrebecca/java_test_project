@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="Dispatch">
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="interface">
+      <change afterPath="$PROJECT_DIR$/src/oo2/pt/PackageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo2/pt/PackageTestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/Rect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/random_array_homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/random_array_homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681292914406</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="interface">
+      <created>1681366337922</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681366337922</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +172,7 @@
     <MESSAGE value="MyStackTest" />
     <MESSAGE value="MethodAdd" />
     <MESSAGE value="Dispatch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dispatch" />
+    <MESSAGE value="interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface" />
   </component>
 </project>
