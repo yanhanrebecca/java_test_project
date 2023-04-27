@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="QuotientWithMethod">
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="try_catch">
+      <change afterPath="$PROJECT_DIR$/src/exception/HellowWorldEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception/QuotientWithMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/QuotientWithMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682573945772</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="try_catch">
+      <created>1682575870810</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1682575870810</updated>
+    </task>
+    <task id="LOCAL-00019" summary="try_catch">
+      <created>1682576026620</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1682576026620</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +217,7 @@
     <MESSAGE value="protected" />
     <MESSAGE value="single" />
     <MESSAGE value="QuotientWithMethod" />
-    <option name="LAST_COMMIT_MESSAGE" value="QuotientWithMethod" />
+    <MESSAGE value="try_catch" />
+    <option name="LAST_COMMIT_MESSAGE" value="try_catch" />
   </component>
 </project>
