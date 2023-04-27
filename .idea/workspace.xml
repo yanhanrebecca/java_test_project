@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="HellowWorldEx">
-      <change afterPath="$PROJECT_DIR$/src/exception/ExceptionDemo.java" afterDir="false" />
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="ExceptionDemo">
+      <change afterPath="$PROJECT_DIR$/src/set/SetDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682577987354</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="ExceptionDemo">
+      <created>1682581479967</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1682581479967</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +233,7 @@
     <MESSAGE value="QuotientWithMethod" />
     <MESSAGE value="try_catch" />
     <MESSAGE value="HellowWorldEx" />
-    <option name="LAST_COMMIT_MESSAGE" value="HellowWorldEx" />
+    <MESSAGE value="ExceptionDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExceptionDemo" />
   </component>
 </project>
