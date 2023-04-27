@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 public class QuotientWithMethod {
     public static int quotient(int n1, int n2){
+        if (n2 == 2){
+            throw new ArithmeticException("Divisor cannot be zero");
+        }
         return n1/n2;
     }
     public static void main(String[] args){
@@ -11,8 +14,13 @@ public class QuotientWithMethod {
         int n1 = r.nextInt();
         int n2 = r.nextInt();
         r.close();
-        int result = quotient(n1, n2);
-        System.out.println(n1 + " / " + n2 + " is " + result);
+        try {
+            int result = quotient(n1, n2);
+            System.out.println(n1 + " / " + n2 + " is " + result);
+        }
+        catch(ArithmeticException e){
+            System.out.println("Execution an integer " + e.getMessage());
+        }
         System.out.println("Execution continues...");
     }
 }
