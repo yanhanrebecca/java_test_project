@@ -14,7 +14,7 @@ public class FileTest {
             }catch (Exception e){
                 System.out.println(e.getMessage());
             }
-            System.out.println("文件名字是:" + f.getName());
+            System.out.println("文件名字:" + f.getName());
             System.out.println("文件路径是:" + f.getPath());
             System.out.println("文件的绝对路径是:" + f.getAbsolutePath());
             System.out.println(f.canRead() ? "文件可读" : "文件不可读");
