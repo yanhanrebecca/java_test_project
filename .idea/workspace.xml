@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="SetDemo">
+      <change afterPath="$PROJECT_DIR$/FileOutputStreamTest_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/FileOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/WriteData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
