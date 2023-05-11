@@ -9,6 +9,7 @@ public class WriteData {
         if (f.exists()){
             f.delete();
         }
+        //文件可以自动关闭
         try(PrintWriter p = new PrintWriter(f);){
             p.print("john T smith ");
             p.println(90);
