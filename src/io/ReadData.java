@@ -5,7 +5,7 @@ import java.io.IOException;
 public class ReadData {
     public static void main(String [] args) throws IOException{
         File f = new File("scores3.txt");
-        if(f.exists() == false){
+        if(!f.exists()){
             System.out.println("File is not exits.");
             System.exit(1);
         }
