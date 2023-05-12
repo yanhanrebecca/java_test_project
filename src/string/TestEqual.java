@@ -3,6 +3,7 @@ package string;
 public class TestEqual {
     public static void main(String[] args){
         //字符串比较的集中对比
+        //new方法创建会给新空间
         String s1 = new String("abc");
         String s2 = new String("ABC");
         String s3 = new String("abc");
@@ -15,6 +16,7 @@ public class TestEqual {
         b = (s1 == s3);
         //s1 == s3 false？？？原因是两个等号判断的是字符串的地址是否相等，字符串关于值的判断要用equals
         System.out.println("s1 == s3 " + b);
+        //以下创建为静态初始化，两个值一样不会给新空间，和new区分开
         String s4 = "abc";
         String s5 = "abc";
         String s6 = "abcd";
