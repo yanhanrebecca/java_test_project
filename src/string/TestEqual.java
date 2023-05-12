@@ -13,6 +13,7 @@ public class TestEqual {
         System.out.println(s1 + " equal " + s2 + " :" + b);
         System.out.println(s1 + " equalsIgnoreCase " + s2 + " :" + b2);
         b = (s1 == s3);
+        //s1 == s3 false？？？原因是
         System.out.println("s1 == s3 " + b);
         String s4 = "abc";
         String s5 = "abc";
@@ -24,7 +25,6 @@ public class TestEqual {
         s6 = "abc";
         b = (s5 == s6);
         System.out.println("*********************s5==s6 " + b);
-        s6 = "abc";
         String  str = "abcd";
         System.out.println(str.compareTo("cat"));
     }

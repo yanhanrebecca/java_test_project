@@ -4,14 +4,16 @@ public class test1 {
     public static void main(String[] args){
         //String用于创建不可改变字符串
         String s = "This is a book.";
-        int iii = s.indexOf("this", 5);
+        int iii = s.indexOf("is", 1);
+        System.out.println("iii:" + iii);
         //去字符串空格
         String s_trim = s.trim();
         //取出某个字符
-        char c = s.charAt(0);
+        char c = s.charAt(2);
+        System.out.println("c: " + c);
         int i = s.length();
         //取子串
-        String sub_s = s.substring(8);
+        String sub_s = s.substring(1);
         //引用
         String s1 = s.toUpperCase();
         String s2;

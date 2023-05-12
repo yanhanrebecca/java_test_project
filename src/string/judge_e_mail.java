@@ -1,5 +1,5 @@
 package string;
-
+//判断是不是一个合法的邮箱
 public class judge_e_mail {
     public static void main(String [] args){
         String regex = "\\w+@\\w+(\\.\\w{2,3})*\\.\\w{2,3}";
