@@ -13,7 +13,7 @@ public class TestEqual {
         System.out.println(s1 + " equal " + s2 + " :" + b);
         System.out.println(s1 + " equalsIgnoreCase " + s2 + " :" + b2);
         b = (s1 == s3);
-        //s1 == s3 false？？？原因是
+        //s1 == s3 false？？？原因是两个等号判断的是字符串的地址是否相等，字符串关于值的判断要用equals
         System.out.println("s1 == s3 " + b);
         String s4 = "abc";
         String s5 = "abc";
