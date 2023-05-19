@@ -15,9 +15,9 @@ public class BubbleSort {
      *            要排序的数组
      */
     public void sort(int[] array) {
-        for (int i = 1; i < array.length; i++) {
+        for (int i = 0; i < array.length; i++) {
             // 比较相邻两个元素，较大的数往后冒泡
-            for (int j = 0; j < array.length - i; j++) {
+            for (int j = 0; j < array.length - i - 1; j++) {
                 if (array[j] > array[j + 1]) {
                     int temp = array[j];// 把第一个元素值保持到临时变量中
                     array[j] = array[j + 1];// 把第二个元素值保存到第一个元素单元中
