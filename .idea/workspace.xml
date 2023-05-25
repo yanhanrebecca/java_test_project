@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="作业">
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/gui/ExampleFrame_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/MouseEvent_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/TestDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/App13_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684679515906</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="1">
+      <created>1684730831040</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684730831040</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,6 +261,7 @@
     <MESSAGE value="ExceptionDemo" />
     <MESSAGE value="SetDemo" />
     <MESSAGE value="作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="作业" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
