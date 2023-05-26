@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/gui/ExampleFrame_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/MouseEvent_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/TestDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/App13_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="thread">
+      <change afterPath="$PROJECT_DIR$/src/thread/TestTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/Tickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/TrainRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/YouHeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/deep/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/deep/DepositThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/deep/DrawThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/deep/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/run_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +63,34 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/array" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.file_homework">
+    <configuration name="YouHeThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.YouHeThread" />
+      <module name="java_test_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file_homework" />
+      <module name="java_test_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.YouHeThread" />
+        <item itemvalue="Application.file_homework" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -262,6 +294,7 @@
     <MESSAGE value="SetDemo" />
     <MESSAGE value="作业" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="thread" />
   </component>
 </project>
