@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="thread">
-      <change afterPath="$PROJECT_DIR$/src/thread/TestTrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/Tickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/TrainRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/YouHeThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/deep/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/deep/DepositThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/deep/DrawThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/deep/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/run_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/Circle_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/StaticTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/StringChuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/adress_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/static_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/value_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_oriented1/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented1/Date.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.file_homework">
+  <component name="RunManager">
     <configuration name="YouHeThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.YouHeThread" />
       <module name="java_test_project" />
@@ -87,8 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.YouHeThread" />
         <item itemvalue="Application.file_homework" />
+        <item itemvalue="Application.YouHeThread" />
       </list>
     </recent_temporary>
   </component>
