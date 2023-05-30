@@ -15,7 +15,7 @@ public class car {
         System.out.println("名字" + name);
     }
     public static void main(String [] args){
-        car c = new car(134, "yanhan");
+        car c = new car(134, "freezing");
         car d = new car(324,"rebecca");
         c.show();
         d.show();

@@ -1,5 +1,5 @@
 package Object_oriented2;
-
+//
 //public class Shape {
 //    double girth;//周长
 //    double area;//面积

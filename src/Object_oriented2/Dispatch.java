@@ -16,7 +16,7 @@ public class Dispatch{
     public static void main(String args[]){
         A a= new B();
         A c = new A();
-        //也叫对象转换，反过来不可以（B a= new A()
+        //也叫对象转换，反过来不可以,如（B a= new A()）
         a.call(); //可以调用a.other吗?
         System.out.println("---------------------------------");
         B b=new B();

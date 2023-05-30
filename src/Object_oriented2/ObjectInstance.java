@@ -4,7 +4,7 @@ public class ObjectInstance {
     public String toString() {
         // 方法重写toString()方法
         return "在" + getClass().getName() +
-                "类中重写toString()方法";
+                "类中重写toString()方法！！！1";
     }
 
     public static void main(String[] args) {

@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="thread">
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/Chinese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/Circle_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/StaticTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/StringChuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/adress_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/static_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object_oriented1/value_test.java" afterDir="false" />
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="oo1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented1/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented1/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/Dispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/Dispatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/FinalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/FinalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/ObjectInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/ObjectInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,8 +265,26 @@
       <option name="project" value="LOCAL" />
       <updated>1684730831040</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="oo1">
+      <created>1685337086476</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1685337086476</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IntegerTest" />
@@ -295,6 +309,7 @@
     <MESSAGE value="作业" />
     <MESSAGE value="1" />
     <MESSAGE value="thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="thread" />
+    <MESSAGE value="oo1" />
+    <option name="LAST_COMMIT_MESSAGE" value="oo1" />
   </component>
 </project>

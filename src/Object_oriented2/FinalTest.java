@@ -13,7 +13,11 @@ public final class FinalTest {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-
+        FinalTest a = new FinalTest();
+        System.out.println(a.x);
+        //a.x = 2;
+        a.method();
+        System.out.println(a.x);
     }
 
 }
