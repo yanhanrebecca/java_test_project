@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="oo1">
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="002">
+      <change afterPath="$PROJECT_DIR$/src/net/Adress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/MyTcp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/Dispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/Dispatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/FinalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/FinalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/ObjectInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/ObjectInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object_oriented2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object_oriented2/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685337086476</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="002">
+      <created>1685453602067</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1685453602068</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,6 +314,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="thread" />
     <MESSAGE value="oo1" />
-    <option name="LAST_COMMIT_MESSAGE" value="oo1" />
+    <MESSAGE value="002" />
+    <option name="LAST_COMMIT_MESSAGE" value="002" />
   </component>
 </project>
