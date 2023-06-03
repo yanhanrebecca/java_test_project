@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="net2">
-      <change afterPath="$PROJECT_DIR$/src/net/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/SimpleSever2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zhujie/Example_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zhujie/Main_o2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -295,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685599547046</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="net2">
+      <created>1685605242422</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1685605242423</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
