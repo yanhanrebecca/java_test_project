@@ -15,6 +15,7 @@ public class HellowWorldEx {
             }
             catch(Exception e){
                 System.out.println(e.toString());
+                e.printStackTrace();
                 break;
             }
             finally {
