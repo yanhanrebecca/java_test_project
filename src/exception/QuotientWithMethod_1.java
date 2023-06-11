@@ -17,5 +17,7 @@ public class QuotientWithMethod_1 {
         int result=quotient(n1,n2);
         System.out.println(n1+" / "+n2+" is "+result);
         System.out.println("Execution continues...");
+
+
     }
 }
