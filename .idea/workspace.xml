@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="exception">
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/Array_sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -314,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686105180884</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="1">
+      <created>1686479357043</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1686479357043</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,13 +355,13 @@
     <MESSAGE value="ExceptionDemo" />
     <MESSAGE value="SetDemo" />
     <MESSAGE value="作业" />
-    <MESSAGE value="1" />
     <MESSAGE value="thread" />
     <MESSAGE value="oo1" />
     <MESSAGE value="002" />
     <MESSAGE value="net" />
     <MESSAGE value="net2" />
     <MESSAGE value="exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="exception" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
