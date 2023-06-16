@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="exam">
-      <change afterPath="$PROJECT_DIR$/src/examination/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examination/TBird.java" afterDir="false" />
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="Pclass">
+      <change afterPath="$PROJECT_DIR$/src/examination/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/MatrixText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/ThreadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examination/PClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examination/PClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examination/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examination/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686564376359</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Pclass">
+      <created>1686665074157</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1686665074157</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +363,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SingleLinkList" />
     <MESSAGE value="ObjectInstance" />
     <MESSAGE value="MyStackTest" />
     <MESSAGE value="MethodAdd" />
@@ -377,6 +387,7 @@
     <MESSAGE value="Array_sort" />
     <MESSAGE value="tool" />
     <MESSAGE value="exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam" />
+    <MESSAGE value="Pclass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pclass" />
   </component>
 </project>
