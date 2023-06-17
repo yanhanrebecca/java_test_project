@@ -1,5 +1,3 @@
-package examination;
-
 public class Circle {
     private double radius;
     private static int count = 0;
