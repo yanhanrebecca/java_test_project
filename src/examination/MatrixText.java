@@ -3,79 +3,59 @@ package examination;
 import java.util.Random;
 
 public class MatrixText {
-    private int[][] arr = new int[10][10];
-    private Random random = new Random();
+    private int[][] matrix;
+    private int maxNum, maxRow, maxCol;
 
     public MatrixText() {
-        while (true) {
-            if (generateArray()) {
-                printMatrix();
-                getMax();
-                break;
-            }
-        }
+        matrix = new int[10][10];
+        initMatrix();
+        maxNum = -1;
+        maxRow = -1;
+        maxCol = -1;
     }
 
-    private boolean generateArray() {
+    // 初始化二维数组
+    private void initMatrix() {
+        Random random = new Random();//创建一个 Random 类型的对象实例的语句
+        boolean[] used = new boolean[100]; // 记录数字是否已使用
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 10; j++) {
-                int n = getInt();
-                if (n == -1)
-                    return false;
-                arr[i][j] = n;
+                int num;
+                do {
+                    num = random.nextInt(100);
+                } while (used[num]); // 避免数字重复
+                used[num] = true;
+                matrix[i][j] = num;
             }
         }
-        return true;
     }
 
-    private int getInt() {
-        int n;
-        do {
-            n = random.nextInt();
-            //System.out.println(n);
-        } while (exist(n));
-        return n;
-    }
-
-    private boolean exist(int n) {
-        for (int i = 0; i < 10; i++) {
-            for (int j = 0; j < 10; j++) {
-                if (arr[i][j] == n)
-                    return true;
-            }
-        }
-        return false;
-    }
-
+    // 按行列输出数组中的数据
     public void printMatrix() {
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 10; j++) {
-                System.out.print(arr[i][j] + "  ");
+                System.out.print(matrix[i][j] + "\t");
             }
             System.out.println();
         }
     }
 
-    public void getMax() {
-        int max = 0;
-        int i = 0;
-        int j = 0;
-
-        for (int m = 0; m < 10; m++) {
-            for (int n = 0; n < 10; n++) {
-                if (arr[m][n] > max) {
-                    max = arr[m][n];
-                    i = m;
-                    j = n;
+    // 输出数组中的最大数及其行号列号
+    public void findMaxNum() {
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 10; j++) {
+                if (matrix[i][j] > maxNum) {
+                    maxNum = matrix[i][j];
+                    maxRow = i;
+                    maxCol = j;
                 }
             }
         }
-
-        System.out.println("最大数:" + max);
-        System.out.println("行号:" + i);
-        System.out.println("列号:" + j);
+        System.out.println("最大数是 " + maxNum + "，行号为 " + maxRow + "，列号为 " + maxCol);
     }
     public static void main(String[] args) {
-        MatrixText mt = new MatrixText();
+        MatrixText matrix = new MatrixText();
+        matrix.printMatrix();
+        matrix.findMaxNum();
     }
 }
