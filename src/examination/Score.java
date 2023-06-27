@@ -7,27 +7,27 @@ package examination;
 5. 这样就测试了getUpScore()方法的实现,满足作业要求。
  */
 public class Score {
-    private int[] score = {24, 35, 88, 76, 90, 54, 59, 66, 96};
+    private int[] scores = {24, 35, 88, 76, 90, 54, 59, 66, 96};
 
     public int getUpScore(int[] up) {
         int sum = 0;
-        for (int i = 0; i < score.length; i++) {
-            sum += score[i];
+        for (int i = 0; i < scores.length; i++) {
+            sum += scores[i];
         }
-        int avg = sum / score.length;
-
-        int count = 0;
-        for (int i = 0; i < score.length; i++) {
-            if (score[i] > avg) {
-                up[count++] = score[i];
+        int aver = sum / scores.length;
+        int j = 0;
+        for (int i = 0; i < scores.length; i++) {
+            if (scores[i] > aver) {
+                up[j] = scores[i];
+                j++;
             }
         }
-        return count;
+        return j;
     }
 
     public static void main(String[] args) {
         Score s = new Score();
-        int[] up = new int[5];
+        int[] up = new int[100];
         int count = s.getUpScore(up);
 
         System.out.println("高于平均分的人数:" + count);
