@@ -55,7 +55,7 @@ public class Parker {
 
         Vehicle bus = new Bus();
         System.out.println(bus.name + "停车" + 5 + "小时,收费:" + p.chargeFees(bus, 5) + "元");
-
+        System.out.println(bus.name + "停车" + 5 + "小时,收费:" + bus.calculateFees(5) + "元");
         Vehicle truck = new Truck();
         System.out.println(truck.name + "停车" + 8 + "小时,收费:" + p.chargeFees(truck, 8) + "元");
 

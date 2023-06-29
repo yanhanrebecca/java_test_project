@@ -57,6 +57,13 @@ class Circle extends Shape {
 }
 
 public class ShapeTest {
+    public static double getAllarea(Shape[] shapes){
+        double totalPerimeter = 0;
+        for (int i = 0; i < shapes.length; i++){
+            totalPerimeter += shapes[i].getPerimeter();
+        }
+        return totalPerimeter;
+    }
     public static void main(String[] args) {
         Shape[] shapes = new Shape[8];
         shapes[0] = new Rectangle(2.0, 3.0);
@@ -74,5 +81,7 @@ public class ShapeTest {
         }
 
         System.out.println("各种形的周长之和为：" + totalPerimeter);
+
+        System.out.println("hanshu1:" + getAllarea(shapes));
     }
 }
