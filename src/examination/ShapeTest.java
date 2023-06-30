@@ -74,14 +74,6 @@ public class ShapeTest {
         shapes[5] = new Circle(2.0);
         shapes[6] = new Circle(3.0);
         shapes[7] = new Circle(4.0);
-
-        double totalPerimeter = 0;
-        for (int i = 0; i < shapes.length; i++){
-            totalPerimeter += shapes[i].getPerimeter();
-        }
-
-        System.out.println("各种形的周长之和为：" + totalPerimeter);
-
-        System.out.println("hanshu1:" + getAllarea(shapes));
+        System.out.println("各种形的周长之和为：" + getAllarea(shapes));
     }
 }

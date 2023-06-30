@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/examFile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examination/examFile2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examination/Parker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examination/Parker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examination/ExceptionDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examination/ExceptionDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/examination/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examination/ShapeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +58,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/array" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager">
@@ -386,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687867108954</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="1">
+      <created>1688025447587</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1688025447587</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

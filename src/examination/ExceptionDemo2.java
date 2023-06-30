@@ -16,7 +16,7 @@ public class ExceptionDemo2 {
     }
     public static void main(String [] args){
         try{
-            compute(2);
+            compute(3);
             compute(21);
             compute(7);
         }catch (MyException2 e){
