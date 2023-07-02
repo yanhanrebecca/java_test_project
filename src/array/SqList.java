@@ -1,4 +1,5 @@
 package array;
+import java.util.List;
 import java.util.Scanner;
 public class SqList {
     int elem[];  //存储一组数据
