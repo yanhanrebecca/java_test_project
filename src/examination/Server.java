@@ -3,13 +3,6 @@ package examination;
 import java.io.*;
 import java.net.*;
 
-/*
-使用javasocket 编程，结合多线程技术，编写服务器端的程序。要求: 服务器端能监听多个客户端的连接(端口号为 7777)，
-一旦和客户端连接成功后，能读取客户端的发送过来的信息，并在服务器的本地控制台上输出，如果读取到的信息中以“VIP”字
-串开头 (不区分大小写)，那么将读取的信息加上前缀“Vip2022:回发给客户端，否则，将读取到的信息加上前缀”2022:
-"回发给客户端。“
-
- */
 public class Server {
     public static void main(String[] args) throws IOException {
         //创建服务器端的 Socket，监听 7777 端口
@@ -19,12 +12,12 @@ public class Server {
         while (true) {
             Socket socket = serverSocket.accept(); //阻塞式方法，等待客户端连接
             //为每个客户端启动一个线程
-            new Thread(new ClientThread(socket)).start();
+            new ClientThread(socket).start();
         }
     }
 }
 
-class ClientThread implements Runnable {
+class ClientThread extends Thread {
     private Socket socket;
 
     public ClientThread(Socket socket) {

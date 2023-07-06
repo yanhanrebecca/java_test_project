@@ -1,18 +1,13 @@
 package examination;
 abstract class Vehicle {
-    protected String name;
-
-    public Vehicle(String name) {
-        this.name = name;
-    }
-
+    public String name;
     public abstract double calculateFees(int hours);
 }
 
 //客车类
 class Bus extends Vehicle {
     public Bus() {
-        super("客车");
+        this.name = "客车";
     }
 
     @Override
@@ -24,7 +19,7 @@ class Bus extends Vehicle {
 //货车类
 class Truck extends Vehicle {
     public Truck() {
-        super("货车");
+        this.name = "货车";
     }
 
     @Override
@@ -36,7 +31,7 @@ class Truck extends Vehicle {
 //轿车类
 class Car extends Vehicle {
     public Car() {
-        super("轿车");
+        this.name = "轿车";
     }
 
     @Override

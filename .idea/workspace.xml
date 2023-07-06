@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="exam">
-      <change afterPath="$PROJECT_DIR$/src/examination/inputArray.java" afterDir="false" />
+    <list default="true" id="f9b89b19-125e-4ae7-8d9c-0ae03633cbb9" name="Changes" comment="se4rver">
+      <change afterPath="$PROJECT_DIR$/src/finally_exam_practice/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finally_exam_practice/MatrixText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finally_exam_practice/Pclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finally_exam_practice/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finally_exam_practice/ShapeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/SqList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SqList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examination/Parker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examination/Parker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/examination/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examination/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examination/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examination/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688124010762</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="se4rver">
+      <created>1688277856635</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1688277856636</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MethodAdd" />
     <MESSAGE value="Dispatch" />
     <MESSAGE value="interface" />
     <MESSAGE value="public,protected" />
@@ -445,6 +456,7 @@
     <MESSAGE value="exception" />
     <MESSAGE value="1" />
     <MESSAGE value="exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam" />
+    <MESSAGE value="se4rver" />
+    <option name="LAST_COMMIT_MESSAGE" value="se4rver" />
   </component>
 </project>
